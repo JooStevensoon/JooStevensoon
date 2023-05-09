@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**JooStevensoon/JooStevensoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### 
 Welcome to my GitHub!!
 
 I'm long term experienced developer.
@@ -14,4 +10,3 @@ I would like to face with new challengy to archieve goal.
 Thank you!
 
 Best Regards!
--->
